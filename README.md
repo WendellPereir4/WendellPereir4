@@ -3,12 +3,13 @@
 🚀 **Backend Java Developer**  
 🇧🇷 Brazil
 
- **Estudante de Java Backend | REST APIs, Spring Boot e SQL.**.
+**Estudante de Java Backend | REST APIs, Spring Boot e SQL.**
 
 ---
+
 ## 🚀 Projetos
 
-🏦 [Sistema Bancário em Java] ([link](https://github.com/WendellPereir4/java-bank))
+🏦 [Sistema Bancário em Java](https://github.com/WendellPereir4/java-bank)
 - POO, classes, encapsulamento e validações.
 
 🌦️ [Previsão do Tempo](link)
@@ -19,4 +20,3 @@
 ### Backend
 
 [![My Skills](https://skillicons.dev/icons?i=java,github,git,idea,spring&theme=light)](https://skillicons.dev)
-
